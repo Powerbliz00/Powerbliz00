@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://powerbliz00.github.io/portfolio/](https://powerbliz00.github.io/portfolio/)
 
-- 💬 Ask me about **Wordpress,Theme Development and Customization**
+- 💬 Ask me about **Wordpress,Theme Development and WP Customization** - _WordPress it's amazing only if you know how to full customize it_
 
 - 📫 How to reach me **business.michaeltestori@gmail.com**
 
