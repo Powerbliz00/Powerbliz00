@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://powerbliz00.github.io/portfolio/](https://powerbliz00.github.io/portfolio/)
 
-- 💬 Ask me about **Wordpress,Theme Development and WP Customization**: _"WordPress it's amazing only if you know how to full customize it"_
+- 💬 Ask me about **Wordpress, Theme Development and WP Customization**: _"WordPress it's amazing only if you know how to full customize it"_
 
 - 📫 How to reach me **business.michaeltestori@gmail.com**
 
@@ -25,4 +25,4 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powerbliz00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="powerbliz00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=powerbliz00&&theme=tokyonight" alt="powerbliz00" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=powerbliz00&&theme=tokyonight" alt="powerbliz00" /></p>
